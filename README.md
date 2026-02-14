@@ -42,7 +42,7 @@ A organização do projeto segue o padrão abaixo:
 Para visualizar este projeto em sua máquina local:
 Clone o repositório:
 ```git
-git clone [https://github.com/KevinShiroma/personal-website-sample.git](https://github.com/KevinShiroma/personal-website-sample.git)
+git clone https://github.com/KevinShiroma/personal-website-sample.git
 ```
 
 1. Abra a pasta do projeto.
