@@ -1,5 +1,7 @@
 # Portfólio - Lobo (Desenvolvedor & Designer)
 
+<img width="1874" height="913" alt="image" src="https://github.com/user-attachments/assets/adabc79e-11b1-4b7f-8aae-0e8570fdfb5b" />
+
 Um site de portfólio pessoal responsivo, desenvolvido com foco em HTML semântico e CSS organizado. O projeto apresenta a experiência profissional, formação e informações de contato de um Desenvolvedor Front End e UX/UI Designer.
 
 ## 💻 Sobre o Projeto
