@@ -28,8 +28,8 @@ A organização do projeto segue o padrão abaixo:
 ├── css/
 │   └── style.css      # Arquivo de estilos principal
 ├── img/
-│   ├── marca.svg      # Logo
-│   ├── perfil.jpg     # Foto de perfil
+│   ├── cursos.svg      
+│   ├── detalhe.jpg     
 │   └── ...            # Outros assets visuais
 ├── favicon.svg        # Ícone da aba do navegador
 ├── index.html         # Arquivo principal
@@ -50,11 +50,13 @@ git clone [https://github.com/KevinShiroma/personal-website-sample.git](https://
 3. Alternativamente, você pode usar uma extensão como o Live Server no VS Code para rodar um servidor local.
 
 ## 🎨 Design
-* O layout foi pensado para ser limpo e direto, destacando as informações cruciais:
+O layout foi pensado para ser limpo e direto, destacando as informações cruciais:
+
 * Header: Logotipo e menu de navegação rápida.
 * Introdução: Foto de perfil e título profissional.
 * Experiência: Lista cronológica de empresas e projetos anteriores com tecnologias usadas.
 * Formação: Detalhes acadêmicos, cursos intensivos e idiomas.
 * Footer: Informações de contato claras.
 
-  
+## 📝 Licença
+Este projeto está sob a licença MIT. Sinta-se à vontade para usá-lo como base para seus estudos.
